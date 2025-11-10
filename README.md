@@ -1,4 +1,3 @@
-# hate-speech-mini-project
 # Twitter Hate-Speech Mini-Project
 
 ## Quick start
