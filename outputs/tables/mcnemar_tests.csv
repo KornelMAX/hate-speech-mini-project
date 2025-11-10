@@ -1,0 +1,11 @@
+Model_1,Model_2,Chi2,p_value,Significant,Cohens_h,Effect_Size_Interpretation,Only_Model1_Correct,Only_Model2_Correct
+svm,bertweet_off_the_shelf,744.8136958710977,5.383887866555567e-164,***,2.0985790158681654,large,927,66
+svm,bertweet_finetuned_weighted,2.012422360248447,0.15601603599625027,ns,-0.23657615721957903,small,71,90
+svm,tw_roberta_hate_off_the_shelf,171.96166134185304,2.7588882492387697e-39,***,1.679298452382941,large,273,40
+svm,tw_roberta_hate_finetuned_weighted,22.57718120805369,2.018680812845964e-06,***,-0.8142547752958833,large,45,104
+bertweet_off_the_shelf,bertweet_finetuned_weighted,790.0214723926381,7.97240944735707e-174,***,-2.238601178321894,large,49,929
+bertweet_off_the_shelf,tw_roberta_hate_off_the_shelf,392.3443113772455,2.5557696415254924e-87,***,-1.354741723532058,large,187,815
+bertweet_off_the_shelf,tw_roberta_hate_finetuned_weighted,854.8188259109312,6.515487039889231e-188,***,-2.3952402932891537,large,34,954
+bertweet_finetuned_weighted,tw_roberta_hate_off_the_shelf,159.9010152284264,1.1892560168494688e-36,***,1.3879397501373836,large,323,71
+bertweet_finetuned_weighted,tw_roberta_hate_finetuned_weighted,10.711267605633802,0.0010648504948774333,**,-0.571110251508016,medium,51,91
+tw_roberta_hate_off_the_shelf,tw_roberta_hate_finetuned_weighted,224.02380952380952,1.1987355647875916e-50,***,-1.7654957309239834,large,43,335

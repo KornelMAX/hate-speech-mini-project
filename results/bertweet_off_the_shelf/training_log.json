@@ -1,0 +1,6 @@
+{
+  "model_name": "BERTweet Zero-Shot",
+  "model_path": "finiteautomata/bertweet-base-sentiment-analysis",
+  "approach": "Sentiment analysis as proxy (NEG \u2192 hate)",
+  "fine_tuning": false
+}

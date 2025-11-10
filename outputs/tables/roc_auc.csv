@@ -1,0 +1,6 @@
+Model,ROC_AUC
+svm,0.9652353718783823
+bertweet_off_the_shelf,0.7473591303201792
+bertweet_finetuned_weighted,0.9789585754546556
+tw_roberta_hate_off_the_shelf,0.8054948726857861
+tw_roberta_hate_finetuned_weighted,0.9924647850761408

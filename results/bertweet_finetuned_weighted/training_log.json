@@ -1,0 +1,19 @@
+{
+  "model_name": "vinai/bertweet-base",
+  "seed": 42,
+  "hyperparameters": {
+    "max_length": 128,
+    "train_batch_size": 32,
+    "eval_batch_size": 64,
+    "learning_rate": 3e-05,
+    "num_epochs": 4,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.1,
+    "class_weights": [
+      0.53770911693573,
+      7.129700660705566
+    ]
+  },
+  "mode": "fine-tune",
+  "device": "mps"
+}

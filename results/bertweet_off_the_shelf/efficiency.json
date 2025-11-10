@@ -1,0 +1,10 @@
+{
+  "inference_time_minutes": 0.6825139840443929,
+  "latency_p50_ms": 8.573412895202637,
+  "latency_p90_ms": 9.610605239868164,
+  "latency_p95_ms": 9.974551200866697,
+  "latency_mean_ms": 7.656009197235107,
+  "throughput_samples_per_sec": 128.20900869859835,
+  "num_parameters": 135000000.0,
+  "parameters_millions": 135.0
+}

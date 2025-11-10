@@ -1,0 +1,14 @@
+{
+  "model_name": "Linear SVM (calibrated)",
+  "vectorizer": "TF-IDF char n-grams (3-5)",
+  "seed": 42,
+  "hyperparameters": {
+    "C": 1,
+    "class_weight": "balanced",
+    "max_features": 20000,
+    "max_iter": 10000,
+    "dual": "auto"
+  },
+  "cv_best_f1": 0.8378387910640324,
+  "calibration_method": "isotonic"
+}

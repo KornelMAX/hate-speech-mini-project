@@ -1,0 +1,12 @@
+{
+  "train_time_seconds": 0.0,
+  "train_time_minutes": 0.0,
+  "latency_p50_ms": 9.441494941711426,
+  "latency_p90_ms": 27.668356895446777,
+  "latency_p95_ms": 30.052256584167438,
+  "latency_mean_ms": 23.674747943878174,
+  "throughput_samples_per_sec": 174.2135455710268,
+  "num_parameters": 124647170,
+  "parameters_millions": 124.64717,
+  "eval_time_seconds_fullset": 19.899905920028687
+}

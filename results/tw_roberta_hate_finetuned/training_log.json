@@ -1,0 +1,15 @@
+{
+  "model_name": "cardiffnlp/twitter-roberta-base-hate-latest",
+  "seed": 42,
+  "hyperparameters": {
+    "max_length": 128,
+    "train_batch_size": 32,
+    "eval_batch_size": 64,
+    "learning_rate": 1e-05,
+    "num_epochs": 2,
+    "weight_decay": 0.01,
+    "warmup_steps": 100
+  },
+  "mode": "fine-tune",
+  "device": "mps"
+}
