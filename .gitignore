@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.ipynb_checkpoints/
+.venv/
+env/
+.DS_Store
+models/
+results/*/checkpoints/
+outputs/figures/*.png
+*.env
